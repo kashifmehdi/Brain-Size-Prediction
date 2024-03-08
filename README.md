@@ -1,3 +1,12 @@
+<div align="center">
+    <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3.8%2B-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-1.0%2B-F37726.svg?logo=jupyter&logoColor=white"></a>
+    <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-1.20%2B-013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-1.2%2B-150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="https://matplotlib.org/"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-3.4%2B-11557C.svg?logo=matplotlib&logoColor=white"></a>
+    <a href="https://scikit-learn.org/"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-0.24%2B-DF4C4C.svg?logo=scikit-learn&logoColor=white"></a>
+</div>
+
 # Brain Size Prediction Project 🧠
 
 ## Description
@@ -42,7 +51,8 @@ Contributions to the project are welcome! If you'd like to contribute enhancemen
 Special thanks to the authors of the dataset used in this project and the scikit-learn library for providing machine learning algorithms and evaluation metrics.
 
 ## Contact Information
-For questions, feedback, or collaboration opportunities, feel free to contact the project maintainer at [kashifmehdi53@gmail.com] or [LinkedIn Profile](https://www.linkedin.com/in/kashifmehdi/).
+For questions, feedback, or collaboration opportunities, feel free to contact the project maintainer at [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com) or [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/).
+
 
 ## References
 - [scikit-learn Documentation](https://scikit-learn.org/)
